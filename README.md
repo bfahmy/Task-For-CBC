@@ -12,3 +12,6 @@ hint (userName for admin role: basem / password: 1234)
 5- admin can test the questions
 6- admin can add any user 
 7- normal user can test the questions and take the result after he finish
+
+
+Using:- JSF primefaces 2.2 / hibernate / DB MySQL
